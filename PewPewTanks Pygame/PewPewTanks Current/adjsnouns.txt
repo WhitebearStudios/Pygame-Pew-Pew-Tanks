@@ -1,0 +1,204 @@
+Busy
+Lazy
+Careless
+Clumsy
+Nimble
+Brave
+Mighty
+Meek
+Clever
+Dull
+Afraid
+Scared
+Cowardly
+Bashful
+Proud
+Fair
+Greedy
+Wise
+Foolish
+Tricky
+Truthful
+Loyal
+Happy
+Cheerful
+Joyful
+Carefree
+Friendly
+Moody
+Crabby
+Cranky
+Awful
+Gloomy
+Angry
+Worried
+Excited
+Calm
+Bored
+Hardworking
+Silly
+Wild
+Crazy
+Fussy
+Still
+Odd
+Starving
+Stuffed
+Alert
+Sleepy
+Surprised
+Tense
+Rude
+Selfish
+Strict
+Tough
+Polite
+Amusing
+Kind
+Gentle
+Quiet
+Caring
+Hopeful
+Rich
+Thrifty
+Stingy
+Spoiled
+Generous
+Quick
+Speedy
+Swift
+Hasty
+Rapid
+Good
+Fantastic
+Splendid
+Wonderful
+Hard
+Difficult
+Challenging
+Easy
+Simple
+Chilly
+Freezing
+Icy
+Steaming
+Sizzling
+Muggy
+Cozy
+Huge
+Great
+Vast
+Sturdy
+Grand
+Heavy
+Plump
+Deep
+Puny
+Small
+Tiny
+Petite
+Long
+Endless
+Beautiful
+Adorable
+Shining
+Sparkling
+Glowing
+Fluttering
+Soaring
+Crawling
+Creeping
+Sloppy
+Messy
+Slimy
+Grimy
+Crispy
+Spiky
+Rusty
+Smelly
+Foul
+Stinky
+Curly
+Fuzzy
+Plush
+Lumpy
+Wrinkly
+Smooth
+Glassy
+Snug
+Stiff
+Ugly
+Hideous
+Horrid
+Dreadful
+Nasty
+Cruel
+Creepy
+Loud
+Shrill
+Muffled
+Creaky
+
+Actor	Gold	Painting
+Advertisement	Grass	Parrot
+Afternoon	Greece	Pencil
+Airport	Guitar	Piano
+Ambulance	Hair	Pillow
+Animal	Hamburger	Pizza
+Answer	Helicopter	Planet
+Apple	Helmet	Plastic
+Army	Holiday	Portugal
+Australia	Honey	Potato
+Balloon	Horse	Queen
+Banana	Hospital	Quill
+Battery	House	Rain
+Beach	Hydrogen	Rainbow
+Beard	Ice	Raincoat
+Bed	Insect	Refrigerator
+Belgium	Insurance	Restaurant
+Boy	Iron	River
+Branch	Island	Rocket
+Breakfast	Jackal	Room
+Brother	Jelly	Rose
+Camera	Jewellery	Russia
+Candle	Jordan	Sandwich
+Car	Juice	School
+Caravan	Kangaroo	Scooter
+Carpet	King	Shampoo
+Cartoon	Kitchen	Shoe
+China	Kite	Soccer
+Church	Knife	Spoon
+Crayon	Lamp	Stone
+Crowd	Lawyer	Sugar
+Daughter	Leather	Sweden
+Death	Library	Teacher
+Denmark	Lighter	Telephone
+Diamond	Lion	Television
+Dinner	Lizard	Tent
+Disease	Lock	Thailand
+Doctor	London	Tomato
+Dog	Lunch	Toothbrush
+Dream	Machine	Traffic
+Dress	Magazine	Train
+Easter	Magician	Truck
+Egg	Manchester	Uganda
+Eggplant	Market	Umbrella
+Egypt	Match	Van
+Elephant	Microphone	Vase
+Energy	Monkey	Vegetable
+Engine	Morning	Vulture
+England	Motorcycle	Wall
+Evening	Nail	Whale
+Eye	Napkin	Window
+Family	Needle	Wire
+Finland	Nest	Xylophone
+Fish	Nigeria	Yacht
+Flag	Night	Yak
+Flower	Notebook	Zebra
+Football	Ocean	Zoo
+Forest	Oil	Garden
+Fountain	Orange	Gas
+France	Oxygen	Girl
+Furniture	Oyster	Glass
+Garage	Ghost	Jellyfish
+
